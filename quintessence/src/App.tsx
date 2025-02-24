@@ -1,5 +1,3 @@
-import React from 'react';
-import { ChevronDown, Phone, Mail, MapPin, Facebook, Instagram, Linkedin } from 'lucide-react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import VehicleCategories from './components/VehicleCategories';
