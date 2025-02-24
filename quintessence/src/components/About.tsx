@@ -23,7 +23,7 @@ export default function About() {
                 <p className="text-zinc-400">Années d'expérience</p>
               </div>
               <div className="border border-gold/30 rounded-lg p-6">
-                <h3 className="text-2xl font-bold text-gold mb-2">150+</h3>
+                <h3 className="text-2xl font-bold text-gold mb-2">80+</h3>
                 <p className="text-zinc-400">Clients satisfaits</p>
               </div>
             </div>
